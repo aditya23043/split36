@@ -1,22 +1,27 @@
 # 36 Key Split Ergonomic Keyboard
 
 ## Order
-- Akko V3 Creamy Yellow Pro Switch (Pack of 45) × 1
+> This is not the actual concise BOM\
+> All this is just the stuff I ordered related to this project
+
+- StacksKB.com
+    - Akko V3 Creamy Yellow Pro Switch (Pack of 45) × 1
     - Order Number: 30456
-    - Cost: 899 + 100 (delivery) = Rs. 1000
+    - Cost: 899 + 100 (delivery) = ₹ 1000
     - Order Date: 2025-02-08
-- Robu
+
+- Robu.in
 
 |Item|Qty|Cost|
 |----|---|----|
-| TRRS Jack | 8 | Rs. 28
-| Raspberry Pi Pico | 1 | Rs. 349
-| Header 1x40 pin | 12 | Rs. 88
-| Ball Bearing | 2 | Rs. 38
-| Handling charges | - | Rs. 25
-| TOTAL | - | Rs. 528
+| TRRS Jack | 8 | ₹ 28
+| Raspberry Pi Pico | 1 | ₹ 349
+| Header 1x40 pin | 12 | ₹ 88
+| Ball Bearing | 2 | ₹ 38
+| Handling charges | - | ₹ 25
+| TOTAL | - | ₹ 528
 
-- Robu (2nd)
+- Robu.in (2nd)
 
 |Item|Qty|Cost|
 |----|---|----|
@@ -35,15 +40,15 @@
 
 |Item|Qty|Cost|
 |----|---|----|
-| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm) | 12			   | Rs. 26.40
-| M2 X 4mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 4mm) | 12		   | Rs. 21.60
-| M2 X 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm) | 12			   | Rs. 19.20
-| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12		   | Rs. 24.00
-| M2 Hex Nut SS304 (Dia. 2mm) | 12							   | Rs. 19.20
-| M3 X 12mm Phillips CSK SS 304 Screw (Dia. 3mm, Length 12mm) | 10			   | Rs. 16.00
-| Allen Key 2mm Chromium Vanadium Steel | 1						   | Rs. 6.20
-| M3 X 12mm Hex (Allen) Button Head SS 304 Screw (Dia. 3mm, Length 12mm) | 8	   | Rs. 17.60
-| Subtotal | - | Rs. 150.20
-| Shipping | - | Rs. 99.00
-| Taxes | - | Rs. 27.04
-| Total | - | Rs. 276.24
+| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm) | 12			   | ₹ 26.40
+| M2 X 4mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 4mm) | 12		   | ₹ 21.60
+| M2 X 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm) | 12			   | ₹ 19.20
+| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12		   | ₹ 24.00
+| M2 Hex Nut SS304 (Dia. 2mm) | 12							   | ₹ 19.20
+| M3 X 12mm Phillips CSK SS 304 Screw (Dia. 3mm, Length 12mm) | 10			   | ₹ 16.00
+| Allen Key 2mm Chromium Vanadium Steel | 1						   | ₹ 6.20
+| M3 X 12mm Hex (Allen) Button Head SS 304 Screw (Dia. 3mm, Length 12mm) | 8	   | ₹ 17.60
+| Subtotal | - | ₹ 150.20
+| Shipping | - | ₹ 99.00
+| Taxes | - | ₹ 27.04
+| Total | - | ₹ 276.24
