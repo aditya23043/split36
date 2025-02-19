@@ -80,3 +80,6 @@
 |Middle|Laser cut Acrylic 3mm|
 |Middle v2|Laser cut Acrylic 5mm|
 |Top|ABS FDM 3d printed|
+
+> As of now (025-02-19 23:20), I am pausing this sandwich case idea and shifting to just a single case which encloses the PCB from the bottom and sides\
+> I would have preferred to have a switch mount plate as well because it adds stability and reduces dust residue in the keyboard but I would like to get started with a simpler case than the sandwich one and also, I would like to use the existing mounting stuff I have bought i.e. the m2x3mm brass inserts and hence I am heading for this approach

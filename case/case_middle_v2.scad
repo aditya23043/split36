@@ -19,17 +19,5 @@ module something(){
     }
 }
 
-module inside(){
-    intersection(){
-        import("pcb_without_holes.stl");
-        minkowski(){
-            something();
-            cylinder(r=2, h=0.1);
-        }
-    }
-}
-
-union(){
-    something();
-    inside();
-};
+render()
+something();
