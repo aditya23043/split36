@@ -72,6 +72,7 @@
 
 [MX Switch Dimensions](https://www.mouser.in/new/cherry-electrical/cherry-mx-keyswitch/)
 [MX Switch Dimensions](./imgs/MXswitches3.svg)
+<img src="./imgs/MXswitches3.svg">
 
 ## Material Used for the case
 
