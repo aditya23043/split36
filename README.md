@@ -70,7 +70,7 @@
     - This will be of height -> (5-1.5)+(1.6) = 5.1mm
 - Lastly, we have the switch mount plate which obviously holds the MX switches and needs to be 1.5mm in height
 
-<img src="./imgs/mx.jpg">
+<img src="./imgs/MXswitches3.svg">
 
 ## Material Used for the case
 
