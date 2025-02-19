@@ -72,7 +72,7 @@
 
 <img src="./imgs/MXswitches3.svg">
 
-## Material Used for the case
+## Materials Used for the case (complex case)
 
 | Plate | Material | Cost |
 |---|---|---|
@@ -83,3 +83,8 @@
 
 > As of now (025-02-19 23:20), I am pausing this sandwich case idea and shifting to just a single case which encloses the PCB from the bottom and sides\
 > I would have preferred to have a switch mount plate as well because it adds stability and reduces dust residue in the keyboard but I would like to get started with a simpler case than the sandwich one and also, I would like to use the existing mounting stuff I have bought i.e. the m2x3mm brass inserts and hence I am heading for this approach
+
+## Simple Case
+<img src="./imgs/2025-02-20_00-15.png">
+<img src="./imgs/2025-02-20_00-15_1.png">
+<img src="./imgs/2025-02-20_00-16.png">
