@@ -1,0 +1,23 @@
+SCREW_R = 1.1;
+
+render()
+difference(){
+    minkowski(){
+        linear_extrude(1.4)
+            projection()
+            import("pcb_without_holes.stl");
+        cylinder(r=5, h=0.1);
+    }
+    import("pcb_without_holes.stl");
+
+    #translate([15,-44,0])
+        cylinder(h=1.5,r=SCREW_R);
+}
+
+/* difference(){ */
+/*     translate([10, -120, 0]) */
+/*     cube([140, 105, 1.5]); */
+    
+/*     translate([-80, 20, 0]) */
+/*     import("mesh_bottom.stl"); */
+/* } */

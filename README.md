@@ -52,3 +52,25 @@
 | Shipping | - | ₹ 99.00
 | Taxes | - | ₹ 27.04
 | Total | - | ₹ 276.24
+
+## Case Designing
+- I am aiming for a sandwich case which consists of a bottom part, middle part for padding, another plate in which pcb is resting and the top switch mount plate
+- The bottom plate will be of 3mm ABS (non metal laser cut) so that the keyboard has a solid base
+- The next plate is the middle one but it is a little bit smaller in inner part so that the PCB can rest on top of it
+    - this plate's height will be -> 3mm because we need at least (3.3-1.6) = 1.7mm clearance and having another 1.3mm would be nice so that the soldered wires can go through
+    - note: 3.3mm is the distance between the bottom-most point of the MX switch and the point which rests on the PCB
+    - and the height of the PCB is 1.6mm
+- Next is the other bottom plate with the pcb cutout in the middle so that the pcb can be put into it and also provides the gap between the previous middle layer and the switch mount plate
+    - This will be of height -> (5-1.5)+(1.6) = 5.1mm
+- Lastly, we have the switch mount plate which obviously holds the MX switches and needs to be 1.5mm in height
+
+![MX Switch Dimensions](https://www.mouser.in/new/cherry-electrical/cherry-mx-keyswitch/)
+
+## Material Used for the case
+
+| Plate | Material | Cost |
+|---|---|---|
+|Bottom|Laser cut Acrylic 3mm | 
+|Middle|Laser cut Acrylic 3mm|
+|Middle v2|Laser cut Acrylic 5mm|
+|Top|ABS FDM 3d printed|
