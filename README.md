@@ -70,7 +70,8 @@
     - This will be of height -> (5-1.5)+(1.6) = 5.1mm
 - Lastly, we have the switch mount plate which obviously holds the MX switches and needs to be 1.5mm in height
 
-![MX Switch Dimensions](https://www.mouser.in/new/cherry-electrical/cherry-mx-keyswitch/)
+[MX Switch Dimensions](https://www.mouser.in/new/cherry-electrical/cherry-mx-keyswitch/)
+[MX Switch Dimensions](./imgs/MXswitches3.svg)
 
 ## Material Used for the case
 
