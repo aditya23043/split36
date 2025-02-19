@@ -1,6 +1,10 @@
 # 36 Key Split Ergonomic Keyboard
 
 ## Order
+
+<details>
+<summary>All the stuff ordered in regards to this project</summary>
+
 > This is not the actual concise BOM\
 > All this is just the stuff I ordered related to this project
 
@@ -52,6 +56,8 @@
 | Shipping | - | ₹ 99.00
 | Taxes | - | ₹ 27.04
 | Total | - | ₹ 276.24
+
+</details>
 
 ## Case Designing
 - I am aiming for a sandwich case which consists of a bottom part, middle part for padding, another plate in which pcb is resting and the top switch mount plate
