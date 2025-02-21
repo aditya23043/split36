@@ -3,7 +3,7 @@ PADDING = 1.5;
 $fn=50;
 
 module screw_mount(x, y, z){
-    translate([x,y,z-1.5])
+    translate([x,y,z-1.5-3])
     difference(){
         cylinder(h=3,r=SCREW_R+PADDING);
         translate([0,0,-1])
@@ -12,11 +12,12 @@ module screw_mount(x, y, z){
 }
 
 module sub_sc(x,y,z){
-    translate([x,y,z-1.5])
+    translate([x,y,z-1.5-3])
         translate([0,0,-1])
             cylinder(h=4,r=SCREW_R);
 }
 
+/* color("#cd0245") */
 difference(){
     
     union(){
@@ -25,7 +26,8 @@ difference(){
                 import("../pcb_without_holes.stl");
                 sphere(5);
             }
-            linear_extrude(5+1.5)
+            translate([0,0,-3])
+            linear_extrude(5+1.5+3)
                 projection()
                 import("../pcb_without_holes.stl");
             sub_sc(37.1,-63.7,1.5);
@@ -45,13 +47,33 @@ difference(){
 //  6.5 - 3 - 1.6 = 1.9
     }
 
-    translate([140,-94.5,3+1.6])
-        cube([10, 10, 5+1.5]);
+    translate([140,-94.5,3+1.6-4.0])
+        cube([10, 10, 5+1.5+5]);
+
+    translate([124.5,-29,3+1.6-3])
+        cube([10, 10, 5+1.5+5]);
 
 };
 
-/* translate([-80,20,1.5+1.5]) */
+/* color("#aaaaaa") */
+/* translate([-80,20,1.5+1.5-3]) */
 /* import("../mesh.stl"); */
+
+/* #translate([94,-47,3+1.6-3]) */
+/*     cube([19.05, 19.05, 3]); */
+
+/* color("#e06c75aa"){ */
+
+/* translate([103,-37.5,13-(3.5*$t)]) */
+/* rotate([90,0,0]) */
+/* import("../dsa.stl"); */
+
+/* translate([103,-37.5-19.05,13-(3.5*$t)]) */
+/* rotate([90,0,0]) */
+/* import("../dsa.stl"); */
+
+/* } */
+
 
 /* import("../pcb_with_mounting_holes.stl"); */
 

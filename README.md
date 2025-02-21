@@ -88,3 +88,13 @@
 <img src="./imgs/2025-02-20_00-15.png">
 <img src="./imgs/2025-02-20_00-15_1.png">
 <img src="./imgs/2025-02-20_00-16.png">
+
+- This case was costing me about Rs. 389 on https://robu.in with ABS and 15% infill
+- I believe that is a bit high for me since this is just half of the keyboard
+- So, I reduced the cost down to about Rs. 300 by putting the PCB a bit lower and instead of the 5mm solid base, we now have a 2mm solid base which makes a little bit less solid but its not a huge problem
+- This is the case with the PCB after the cost cut
+
+<img src="./imgs/2025-02-21_11-25.png">
+<img src="./imgs/2025-02-21_11-25_1.png">
+<img src="./imgs/2025-02-21_11-28.png">
+<img src="./imgs/2025-02-21_11-28_1.png">
