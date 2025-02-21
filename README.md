@@ -98,3 +98,6 @@
 <img src="./imgs/2025-02-21_11-25_1.png">
 <img src="./imgs/2025-02-21_11-28.png">
 <img src="./imgs/2025-02-21_11-28_1.png">
+
+- Order placed for this case for Rs.335 along with the mount plate for this project -> https://github.com/aditya23043/Tekken_Controller
+- Totalling: Rs. 463 (335 + 79 (mount plate) + 49 (delivery))
