@@ -26,10 +26,19 @@ difference(){
                 import("../pcb_without_holes.stl");
                 sphere(5);
             }
-            translate([0,0,-3])
-            linear_extrude(5+1.5+3)
-                projection()
-                import("../pcb_without_holes.stl");
+
+            #minkowski(){
+                translate([0,0,-3])
+                linear_extrude(5+1.5+3)
+                    projection()
+                    import("../pcb_without_holes.stl");
+
+                cube([1.4,1.4,1.4], center=true);
+            }
+            /* translate([0,0,-3]) */
+            /* #linear_extrude(5+1.5+3) */
+            /*     projection() */
+            /*     import("../pcb_without_holes.stl"); */
             sub_sc(37.1,-63.7,1.5);
             sub_sc(56.2,-39.9,1.5);
             sub_sc(74.2,-59,1.5);
@@ -89,3 +98,8 @@ difference(){
 /*     cylinder(h=2,r=1.1); */
 /* #translate([127.4,-87.1,1.5]) */
 /*     cylinder(h=2,r=1.1); */
+
+
+/* #translate([0,-130,5+1.5]) */
+/* import("/mnt/hdd/repo/split_keyboard/electroholics/split/repo/split-Edge_Cuts.svg"); */
+

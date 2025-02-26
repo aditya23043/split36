@@ -9,82 +9,86 @@
 > All this is just the stuff I ordered related to this project
 
 - StacksKB.com
-    - Akko V3 Creamy Yellow Pro Switch (Pack of 45) × 1
-    - Order Number: 30456
-    - Cost: 899 + 100 (delivery) = ₹ 1000
-    - Order Date: 2025-02-08
+
+  - Akko V3 Creamy Yellow Pro Switch (Pack of 45) × 1
+  - Order Number: 30456
+  - Cost: 899 + 100 (delivery) = ₹ 1000
+  - Order Date: 2025-02-08
 
 - Robu.in
 
-|Item|Qty|Cost|
-|----|---|----|
-| TRRS Jack | 8 | ₹ 28
-| Raspberry Pi Pico | 1 | ₹ 349
-| Header 1x40 pin | 12 | ₹ 88
-| Ball Bearing | 2 | ₹ 38
-| Handling charges | - | ₹ 25
-| TOTAL | - | ₹ 528
+| Item              | Qty | Cost  |
+| ----------------- | --- | ----- |
+| TRRS Jack         | 8   | ₹ 28  |
+| Raspberry Pi Pico | 1   | ₹ 349 |
+| Header 1x40 pin   | 12  | ₹ 88  |
+| Ball Bearing      | 2   | ₹ 38  |
+| Handling charges  | -   | ₹ 25  |
+| TOTAL             | -   | ₹ 528 |
 
 - Robu.in (2nd)
 
-|Item|Qty|Cost|
-|----|---|----|
-| USB 3.1 Female Socket Type C Connector 24 Pins Breakout PCB Board | 2	   | ₹ 98.00	
-| Wire Stripper Flat Nose Cable Cutter with Practical Punch Down Tool | 1  | ₹ 18.00	
-| High Quality Ultra Flexible 30AWG Silicone Wire - Black | 5		   | ₹ 25.00	
-| UL1007 26AWG PVC Electronic Wire - Black | 2				   | ₹ 14.00	
-| High Quality Ultra Flexible 22AWG Silicone Wire - Black | 2		   | ₹ 36.00	
-| Heat Shrink Sleeve 1mm Red Industrial Grade WOER (HST) | 4		   | ₹ 20.00	
-| Piezo Buzzer 35mm | 1							   | ₹ 16.00	
-| Subtotal: | -								   | ₹ 227.00
-| Shipping: | -								   | ₹ 49.00 via STANDARD SHIPPING
-| Cash Handling Charges: | -						   | ₹ 25.00
-| Total: | -								   | ₹ 301.00
+| Item                                                                | Qty | Cost                          |
+| ------------------------------------------------------------------- | --- | ----------------------------- |
+| USB 3.1 Female Socket Type C Connector 24 Pins Breakout PCB Board   | 2   | ₹ 98.00                       |
+| Wire Stripper Flat Nose Cable Cutter with Practical Punch Down Tool | 1   | ₹ 18.00                       |
+| High Quality Ultra Flexible 30AWG Silicone Wire - Black             | 5   | ₹ 25.00                       |
+| UL1007 26AWG PVC Electronic Wire - Black                            | 2   | ₹ 14.00                       |
+| High Quality Ultra Flexible 22AWG Silicone Wire - Black             | 2   | ₹ 36.00                       |
+| Heat Shrink Sleeve 1mm Red Industrial Grade WOER (HST)              | 4   | ₹ 20.00                       |
+| Piezo Buzzer 35mm                                                   | 1   | ₹ 16.00                       |
+| Subtotal:                                                           | -   | ₹ 227.00                      |
+| Shipping:                                                           | -   | ₹ 49.00 via STANDARD SHIPPING |
+| Cash Handling Charges:                                              | -   | ₹ 25.00                       |
+| Total:                                                              | -   | ₹ 301.00                      |
+
 - OnlyScrew.in
 
-|Item|Qty|Cost|
-|----|---|----|
-| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm) | 12			   | ₹ 26.40
-| M2 X 4mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 4mm) | 12		   | ₹ 21.60
-| M2 X 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm) | 12			   | ₹ 19.20
-| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12		   | ₹ 24.00
-| M2 Hex Nut SS304 (Dia. 2mm) | 12							   | ₹ 19.20
-| M3 X 12mm Phillips CSK SS 304 Screw (Dia. 3mm, Length 12mm) | 10			   | ₹ 16.00
-| Allen Key 2mm Chromium Vanadium Steel | 1						   | ₹ 6.20
-| M3 X 12mm Hex (Allen) Button Head SS 304 Screw (Dia. 3mm, Length 12mm) | 8	   | ₹ 17.60
-| Subtotal | - | ₹ 150.20
-| Shipping | - | ₹ 99.00
-| Taxes | - | ₹ 27.04
-| Total | - | ₹ 276.24
+| Item                                                                   | Qty | Cost     |
+| ---------------------------------------------------------------------- | --- | -------- |
+| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm)                 | 12  | ₹ 26.40  |
+| M2 X 4mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 4mm)         | 12  | ₹ 21.60  |
+| M2 X 3mm Brass Threaded Inserts (Dia. 2mm, Length 3mm)                 | 12  | ₹ 19.20  |
+| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm)         | 12  | ₹ 24.00  |
+| M2 Hex Nut SS304 (Dia. 2mm)                                            | 12  | ₹ 19.20  |
+| M3 X 12mm Phillips CSK SS 304 Screw (Dia. 3mm, Length 12mm)            | 10  | ₹ 16.00  |
+| Allen Key 2mm Chromium Vanadium Steel                                  | 1   | ₹ 6.20   |
+| M3 X 12mm Hex (Allen) Button Head SS 304 Screw (Dia. 3mm, Length 12mm) | 8   | ₹ 17.60  |
+| Subtotal                                                               | -   | ₹ 150.20 |
+| Shipping                                                               | -   | ₹ 99.00  |
+| Taxes                                                                  | -   | ₹ 27.04  |
+| Total                                                                  | -   | ₹ 276.24 |
 
 </details>
 
 ## Case Designing
+
 - I am aiming for a sandwich case which consists of a bottom part, middle part for padding, another plate in which pcb is resting and the top switch mount plate
 - The bottom plate will be of 3mm ABS (non metal laser cut) so that the keyboard has a solid base
 - The next plate is the middle one but it is a little bit smaller in inner part so that the PCB can rest on top of it
-    - this plate's height will be -> 3mm because we need at least (3.3-1.6) = 1.7mm clearance and having another 1.3mm would be nice so that the soldered wires can go through
-    - note: 3.3mm is the distance between the bottom-most point of the MX switch and the point which rests on the PCB
-    - and the height of the PCB is 1.6mm
+  - this plate's height will be -> 3mm because we need at least (3.3-1.6) = 1.7mm clearance and having another 1.3mm would be nice so that the soldered wires can go through
+  - note: 3.3mm is the distance between the bottom-most point of the MX switch and the point which rests on the PCB
+  - and the height of the PCB is 1.6mm
 - Next is the other bottom plate with the pcb cutout in the middle so that the pcb can be put into it and also provides the gap between the previous middle layer and the switch mount plate
-    - This will be of height -> (5-1.5)+(1.6) = 5.1mm
+  - This will be of height -> (5-1.5)+(1.6) = 5.1mm
 - Lastly, we have the switch mount plate which obviously holds the MX switches and needs to be 1.5mm in height
 
 <img src="./imgs/MXswitches3.svg">
 
 ## Materials Used for the case (complex case)
 
-| Plate | Material | Cost |
-|---|---|---|
-|Bottom|Laser cut Acrylic 3mm | 
-|Middle|Laser cut Acrylic 3mm|
-|Middle v2|Laser cut Acrylic 5mm|
-|Top|ABS FDM 3d printed|
+| Plate     | Material              | Cost |
+| --------- | --------------------- | ---- |
+| Bottom    | Laser cut Acrylic 3mm |
+| Middle    | Laser cut Acrylic 3mm |
+| Middle v2 | Laser cut Acrylic 5mm |
+| Top       | ABS FDM 3d printed    |
 
 > As of now (025-02-19 23:20), I am pausing this sandwich case idea and shifting to just a single case which encloses the PCB from the bottom and sides\
 > I would have preferred to have a switch mount plate as well because it adds stability and reduces dust residue in the keyboard but I would like to get started with a simpler case than the sandwich one and also, I would like to use the existing mounting stuff I have bought i.e. the m2x3mm brass inserts and hence I am heading for this approach
 
 ## Simple Case
+
 <img src="./imgs/2025-02-20_00-15.png">
 <img src="./imgs/2025-02-20_00-15_1.png">
 <img src="./imgs/2025-02-20_00-16.png">
@@ -101,3 +105,20 @@
 
 - Order placed for this case for Rs.335 along with the mount plate for this project -> https://github.com/aditya23043/Tekken_Controller
 - Totalling: Rs. 463 (335 + 79 (mount plate) + 49 (delivery))
+
+## 2025-02-26 23:54
+
+- The case has arrived for one of the halves since I wanted to make sure there were no issues with my design
+- And guess what? Yes, there is a major issue with the design
+- I had not taken printing error in mind and hence did not account for tolerance issues
+- The PCB just wont go in flush. It seems like if the case was just 0.5-1mm more larger on the inside, the PCB would have rested perfectly
+- I have updated the 3D case files in the repo to include a 0.7mm clearance on the inside
+- As for the case, I have taken suggestions from seniors and batchmates from the Electroholics Club of IIITD
+- They have suggested to either use the thermal property of ABS in order to mould it into a bit bigger enclosure
+- Or sand the edges down a bit to accomodate the PCB perfectly
+- I will be taking the latter approach since that seems more fail proof in my mind
+- And hence, I have ordered this sand paper set from amazon -> [Sand paper](https://www.amazon.in/Abrasive-Automotive-Woodworking-Furniture-Finishing/dp/B0CCW1BG6J?crid=2EEL0M61VZAA&dib=eyJ2IjoiMSJ9.Zoi8ylSky-5luMBW1yZJDoSybKyFAd-nqliej5kaOOlOpCvAWyQ41mtm_BK3hccGk31BMp2cViJyyWQd6a_diGoK0G64POys9TNYCAbUBpH24bBg0yZ7kc0Ak9Pfc_61XdJiMc7flElSorGCEcOXjIZMTRTRceEs2cXiosr3PirVU5lLTFYQC7vD3jknDQvFn2VQ5Xwbg4kThXJXX_U_AD_CbIjYicfF7zHdDg82PSNY9mOjZS1VNdKjRHVu5uBzZ4lRd1IlxIwzcVhsADxnlQQYXiG4B_37tawKm34SAPIcsIGwqtalY5JfByuImBkNebYDzTPX32AZYsfDKeUq7G12zp3VJ4RzMkF1yfA55NbeXZ8WBsbFUSJUn487lN6kKEX7saYSj2JCtrtfa6v1f31TochDW9mhu5mwZfobleQB-t04E13b-aYj9pGOqL9u.koHrfVWDqWvgJBQTqdjGDcFOiomCGaOogGteUhE_4SI&dib_tag=se&keywords=sandpaper%2Bfor%2Bplastic&qid=1740584809&sprefix=sandpaper%2Bfor%2Bplast%2Caps%2C259&sr=8-2&th=1)
+
+<img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.04.jpeg">
+<img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.05.jpeg">
+<img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.06.jpeg">
