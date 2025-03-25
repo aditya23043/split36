@@ -1,5 +1,9 @@
 # 36 Key Split Ergonomic Keyboard
 
+## Block Diagram
+
+![2025-03-25_09-55](https://github.com/user-attachments/assets/95127583-efe8-49e0-8db1-be4b7e4d2074)
+
 ## BOM
 
 | Item                                                           | Qty | Total Price | Ordered From |
