@@ -122,3 +122,8 @@
 <img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.04.jpeg">
 <img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.05.jpeg">
 <img src="./imgs/WhatsApp Image 2025-02-27 at 00.00.06.jpeg">
+
+## 2025-03-18 23:48
+
+- Instead of trying to make do with the case without tolerances, I have decided to add 1mm tolerance to the current design and order it again
+- For ABS 15% infill 2mm default nozel, it is costing me Rs. 277 + Rs. 49 = Rs. 326

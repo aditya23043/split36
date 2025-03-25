@@ -33,7 +33,7 @@ difference(){
                     projection()
                     import("../pcb_without_holes.stl");
 
-                cube([1.4,1.4,1.4], center=true);
+                cube([2,2,2], center=true);
             }
             /* translate([0,0,-3]) */
             /* #linear_extrude(5+1.5+3) */
