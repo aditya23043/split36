@@ -1,5 +1,17 @@
 # 36 Key Split Ergonomic Keyboard
 
+## BOM
+
+| Item                                                           | Qty | Total Price | Ordered From |
+| -------------------------------------------------------------- | --- | ----------- | ------------ |
+| Akko V3 Creamy Yellow Pro Mechanical Switch                    | 45  | ₹999        | StacksKB.com |
+| 3.5mm TRRS Jack                                                | 2   | ₹28         | Robu.in      |
+| Raspberry Pi Pico                                              | 2   | ₹700        | Robu.in      |
+| Header 1x40 pin                                                | 2   | ₹14.6       | Robu.in      |
+| High Quality Ultra Flexible 30AWG Silicone Wire - Black        | 5   | ₹ 25.00     | Robu.in      |
+| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm)         | 12  | ₹ 26.40     | OnlyScrew.in |
+| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12  | ₹ 24.00     | OnlyScrew.in |
+
 ## Order
 
 <details>
@@ -19,7 +31,7 @@
 
 | Item              | Qty | Cost  |
 | ----------------- | --- | ----- |
-| TRRS Jack         | 8   | ₹ 28  |
+| TRRS Jack         | 2   | ₹ 28  |
 | Raspberry Pi Pico | 1   | ₹ 349 |
 | Header 1x40 pin   | 12  | ₹ 88  |
 | Ball Bearing      | 2   | ₹ 38  |
