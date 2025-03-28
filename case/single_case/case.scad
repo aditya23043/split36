@@ -27,7 +27,7 @@ difference(){
                 sphere(5);
             }
 
-            #minkowski(){
+            minkowski(){
                 translate([0,0,-3])
                 linear_extrude(5+1.5+3)
                     projection()

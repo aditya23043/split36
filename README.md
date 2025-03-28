@@ -1,5 +1,7 @@
 # 36 Key Split Ergonomic Keyboard
 
+<img src="./imgs/dslr/IMG_3519.JPG">
+
 ## Block Diagram
 
 ![2025-03-25_09-55](https://github.com/user-attachments/assets/95127583-efe8-49e0-8db1-be4b7e4d2074)
@@ -145,3 +147,18 @@
 
 - Instead of trying to make do with the case without tolerances, I have decided to add 1mm tolerance to the current design and order it again
 - For ABS 15% infill 2mm default nozel, it is costing me Rs. 277 + Rs. 49 = Rs. 326
+
+## 2025-03-29 00:23
+
+- Added brass heat inserts in order to mount the pcb to the case using M2 screws
+- Finished soldering the mechanical switches, header pins for MCU and the TRRS jack onto the PCB.
+
+<img src="./imgs/dslr/IMG_3499.JPG">
+<img src="./imgs/dslr/IMG_3506.JPG">
+<img src="./imgs/dslr/IMG_3508.JPG">
+<img src="./imgs/dslr/IMG_3510.JPG">
+<img src="./imgs/dslr/IMG_3514.JPG">
+<img src="./imgs/dslr/IMG_3517.JPG">
+<img src="./imgs/dslr/IMG_3518.JPG">
+<img src="./imgs/dslr/IMG_3519.JPG">
+<img src="./imgs/dslr/IMG_3521.JPG">
