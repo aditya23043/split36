@@ -1,0 +1,2 @@
+board: rp2040:rp2040:rpipicow
+port: /dev/ttyACM0

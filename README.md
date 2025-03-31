@@ -162,3 +162,13 @@
 <img src="./imgs/dslr/IMG_3518.JPG">
 <img src="./imgs/dslr/IMG_3519.JPG">
 <img src="./imgs/dslr/IMG_3521.JPG">
+
+## 2025-03-31 23:45
+
+- Deep purple keycaps came in today
+
+<img src="./imgs/dslr/IMG_3542.JPG">
+<img src="./imgs/dslr/IMG_3543.JPG">
+<img src="./imgs/dslr/IMG_3544.JPG">
+<img src="./imgs/dslr/IMG_3545.JPG">
+<img src="./imgs/dslr/IMG_3546.JPG">
