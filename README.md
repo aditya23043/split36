@@ -166,9 +166,18 @@
 ## 2025-03-31 23:45
 
 - Deep purple keycaps came in today
+- Fixed the skew in keyswitches -> https://www.reddit.com/r/ErgoMechKeyboards/comments/1jmeygr/the_switches_on_my_custom_cornelike_keyboard_do/
 
 <img src="./imgs/dslr/IMG_3542.JPG">
 <img src="./imgs/dslr/IMG_3543.JPG">
 <img src="./imgs/dslr/IMG_3544.JPG">
 <img src="./imgs/dslr/IMG_3545.JPG">
 <img src="./imgs/dslr/IMG_3546.JPG">
+
+## 2025-03-05 10:03
+
+- Case for the right half ordered from https://Robu.in
+- Firmware for the left half done
+  - Also includes the code for "key held down" event
+- [ ] Right half assembly
+- [ ] Right half firmware
