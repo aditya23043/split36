@@ -8,17 +8,18 @@
 
 ## BOM
 
-| Item                                                           | Qty | Total Price | Ordered From     |
-| -------------------------------------------------------------- | --- | ----------- | ---------------- |
-| Akko V3 Creamy Yellow Pro Mechanical Switch                    | 45  | ₹ 999       | StacksKB.com     |
-| 3.5mm TRRS Jack                                                | 2   | ₹ 28        | Robu.in          |
-| Raspberry Pi Pico                                              | 2   | ₹ 700       | Robu.in          |
-| Header 1x40 pin                                                | 2   | ₹ 14.6      | Robu.in          |
-| High Quality Ultra Flexible 30AWG Silicone Wire - Black        | 5   | ₹ 25.00     | Robu.in          |
-| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm)         | 12  | ₹ 26.40     | OnlyScrew.in     |
-| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12  | ₹ 24.00     | OnlyScrew.in     |
-| Two Cases (optional but recommended)                           | 2   | ₹ 652       | Robu.in / DI Lab |
-| Total                                                          | -   | ₹ 2469      |                  |
+| Item                                                           | Qty | Total Price | Ordered From |
+| -------------------------------------------------------------- | --- | ----------- | ------------ |
+| PCB                                                            | 2   | ₹ 800       | Robu.in      |
+| 3D printed Cases (optional but recommended)                    | 2   | ₹ 652       | Robu.in      |
+| Akko V3 Creamy Yellow Pro Mechanical Switch                    | 45  | ₹ 999       | StacksKB.com |
+| 3.5mm TRRS Jack                                                | 2   | ₹ 28        | Robu.in      |
+| Raspberry Pi Pico                                              | 2   | ₹ 700       | Robu.in      |
+| Header 1x40 pin                                                | 2   | ₹ 14.6      | Robu.in      |
+| High Quality Ultra Flexible 30AWG Silicone Wire - Black        | 5   | ₹ 25.00     | Robu.in      |
+| M2 X 6mm Brass Threaded Inserts (Dia. 2mm, Length 6mm)         | 12  | ₹ 26.40     | OnlyScrew.in |
+| M2 X 6mm Phillips Pan head SS 304 Screw (Dia. 2mm, Length 6mm) | 12  | ₹ 24.00     | OnlyScrew.in |
+| Total                                                          | -   | ₹ 3269      |              |
 
 ## Order
 
@@ -181,3 +182,14 @@
   - Also includes the code for "key held down" event
 - [ ] Right half assembly
 - [ ] Right half firmware
+
+## 2025-04-11 23:13
+
+### Major Issue
+- The footprint used for the MX switches (from ScottoKeeb's github repo) had label -> MX 1.00u Reversible written on it. However, it means reversible in the sense that we can swap north facing and south facing switches, not for mutli sided switches
+- Hence, the assembly of the right half is on hold until the new PCB arrives.
+- In the modified kicad project I have used the SW_MX_REVERSIBLE footprint from -> https://github.com/daprice/keyswitches.pretty
+- Furthermore, I have added the kicad project in this repo inside the `pcb/` directory
+- 2025-04-11 23:26 -> PCB order placed
+  - Cost: ₹1935 for 5 PCBs
+  - Nearly: ₹400 per PCB
