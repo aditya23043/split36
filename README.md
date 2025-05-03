@@ -180,7 +180,7 @@
 - Case for the right half ordered from https://Robu.in
 - Firmware for the left half done
   - Also includes the code for "key held down" event
-- [ ] Right half assembly
+- [X] Right half assembly
 - [ ] Right half firmware
 
 ## 2025-04-11 23:13
@@ -193,3 +193,35 @@
 - 2025-04-11 23:26 -> PCB order placed
   - Cost: ₹1935 for 5 PCBs
   - Nearly: ₹400 per PCB
+
+## 2025-05-03 23:13
+
+- Right Half assembly done 
+
+## Major Issue 2.0
+- The TRRS jack connection on the second half is technically correct but the problem is that since the right half is just the flip of left half PCB, the microcontroller should either be soldered reverse or else the pins are flipped wrt the vertical axis
+- Due to this, the connections of the TRRS jack are reversed as well
+- Instead of GND, VSYS, GP0, GP1; we have -> GND, GP1, VBUS, VSYS which is very wrong in context of the code logic
+- Hence, I had to scratch out all the copper tracks manually connected to the TRRS jack and connect them with the MCU manually using wires with the following connections
+
+```
+TRRS
+4 3 2
+	1
+
+DEFAULT
+1 GND
+2 GP1
+3 VBUS
+4 VSYS
+
+WHAT WE WANT
+1 GND
+2 VSYS
+3 GP0 (SDA)
+4 GP1 (SCL)
+```
+
+- And finally, with testing, I am able to confirm that the right half can now be powered properly with just the left half connected with the system
+- So, as of now, this prototype's hardware stuff has been completed
+- [ ] TODO: Firmware

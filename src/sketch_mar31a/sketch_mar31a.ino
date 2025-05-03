@@ -29,6 +29,7 @@ void setup() {
   }
 }
 
+
 void loop() {
   for (int i = 0; i < num_pins; i++) {
     if (digitalRead(pins[i]) == LOW) {

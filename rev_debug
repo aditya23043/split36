@@ -1,0 +1,17 @@
+
+
+TRRS
+4 3 2
+	1
+
+CURRENT
+1 GND
+2 GP1
+3 VBUS
+4 VSYS
+
+what I want
+1 GND
+2 VSYS
+3 GP0 (SDA)
+4 GP1 (SCL)
