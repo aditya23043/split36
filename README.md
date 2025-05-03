@@ -180,12 +180,13 @@
 - Case for the right half ordered from https://Robu.in
 - Firmware for the left half done
   - Also includes the code for "key held down" event
-- [X] Right half assembly
+- [x] Right half assembly
 - [ ] Right half firmware
 
 ## 2025-04-11 23:13
 
 ### Major Issue
+
 - The footprint used for the MX switches (from ScottoKeeb's github repo) had label -> MX 1.00u Reversible written on it. However, it means reversible in the sense that we can swap north facing and south facing switches, not for mutli sided switches
 - Hence, the assembly of the right half is on hold until the new PCB arrives.
 - In the modified kicad project I have used the SW_MX_REVERSIBLE footprint from -> https://github.com/daprice/keyswitches.pretty
@@ -196,9 +197,10 @@
 
 ## 2025-05-03 23:13
 
-- Right Half assembly done 
+- Right Half assembly done
 
 ## Major Issue 2.0
+
 - The TRRS jack connection on the second half is technically correct but the problem is that since the right half is just the flip of left half PCB, the microcontroller should either be soldered reverse or else the pins are flipped wrt the vertical axis
 - Due to this, the connections of the TRRS jack are reversed as well
 - Instead of GND, VSYS, GP0, GP1; we have -> GND, GP1, VBUS, VSYS which is very wrong in context of the code logic
@@ -207,7 +209,7 @@
 ```
 TRRS
 4 3 2
-	1
+    1
 
 DEFAULT
 1 GND
