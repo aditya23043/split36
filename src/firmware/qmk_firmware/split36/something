@@ -1,0 +1,26 @@
+Ψ Compiling keymap with make -r -R -f builddefs/build_keyboard.mk -s KEYBOARD=split36 KEYMAP=default KEYBOARD_FILESAFE=split36 TARGET=split36_default VERBOSE=false COLOR=true SILENT=false QMK_BIN="qmk"
+⚠ split36: DIODE_DIRECTION in config.h is overwriting diode_direction in info.json
+☒ 'bool' object has no attribute 'replace'
+Traceback (most recent call last):
+  File "/usr/lib/python3.13/site-packages/milc/milc.py", line 606, in __call__
+    return self.__call__()
+           ~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.13/site-packages/milc/milc.py", line 611, in __call__
+    return self._subcommand(self)
+           ~~~~~~~~~~~~~~~~^^^^^^
+  File "/mnt/hdd/repo/split36/src/firmware/qmk_firmware/lib/python/qmk/cli/generate/rules_mk.py", line 102, in generate_rules_mk
+    kb_info_json = dotty(info_json(cli.args.keyboard))
+                         ~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+  File "/mnt/hdd/repo/split36/src/firmware/qmk_firmware/lib/python/qmk/info.py", line 258, in info_json
+    info_data = _extract_config_h(info_data, config_h(str(keyboard)))
+  File "/mnt/hdd/repo/split36/src/firmware/qmk_firmware/lib/python/qmk/info.py", line 678, in _extract_config_h
+    _extract_matrix_info(info_data, config_c)
+    ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/hdd/repo/split36/src/firmware/qmk_firmware/lib/python/qmk/info.py", line 556, in _extract_matrix_info
+    direct_pins = config_c.get('DIRECT_PINS', '').replace(' ', '')[1:-1]
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'bool' object has no attribute 'replace'
+
+ *                                                                                                     [31;01m[ERRORS][0m
+
+builddefs/build_keyboard.mk:298: *** Platform not defined.  Stop.

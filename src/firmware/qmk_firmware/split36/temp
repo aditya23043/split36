@@ -1,0 +1,7 @@
+
+// #define DIRECT_PINS                                                                               \
+//     {                                                                                             \
+//         {GP2, GP3, GP4, GP5, GP19}, {GP6, GP7, GP8, GP9, GP18}, {GP10, GP11, GP12, GP13, GP17}, { \
+//             NO_PIN, NO_PIN, GP16, GP15, GP14                                                      \
+//         }                                                                                         \
+//     }
