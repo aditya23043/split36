@@ -1,0 +1,68 @@
+html {
+  background-color: black;
+  color: #dadada;
+  font-family: "JetBrainsMono NFM";
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+  /* margin-bottom: 3rem; */
+}
+
+h3 {
+  margin-top: 5rem;
+}
+
+table {
+  color: #dadada;
+  font-size: 1.6rem;
+  border-spacing: 0.5rem;
+}
+
+td {
+  padding: 1.2rem 1.2rem;
+  border: 1px solid #232323;
+  border-radius: 0.3rem;
+  text-align: center;
+  transition: all ease 0.5s;
+}
+
+table tr td {
+  min-width: 3rem;
+  min-height: 3rem;
+  max-width: 3rem;
+  max-height: 3rem;
+}
+
+/* td:hover { */
+/*   border: 1px solid #dadada; */
+/* } */
+
+/* .gap:hover { */
+/*   border: none; */
+/*   width: 3rem; */
+/* } */
+
+.gap {
+  border: none;
+  width: 3rem;
+}
+
+.empty {
+  border: none;
+}
+
+/* .empty:hover { */
+/*   border: none; */
+/* } */
+
+.modifier {
+  font-size: 1rem;
+  padding: 1.5rem 1rem;
+}
+
+.held {
+  border: 2px solid white;
+}
