@@ -58,7 +58,7 @@ macros = Macros()
 tapdance = TapDance()
 tapdance.tap_time = 200
 mousekeys = MouseKeys(
-    max_speed = 10,
+    max_speed = 15,
     acc_interval = 15,
     move_step = 1
 )
@@ -88,7 +88,7 @@ keyboard.keymap = [
     ],
     [
         KC.NO, KC.NO, KC.C, KC.NO, KC.NO,
-        KC.LCTRL, KC.LSHIFT, KC.LALT, KC.LGUI, KC.NO,
+        KC.LCTRL, KC.LSHIFT, KC.LALT, KC.LGUI, KC.CAPS,
         KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
                       KC.NO, KC.NO, KC.NO,
 
@@ -103,7 +103,7 @@ keyboard.keymap = [
         KC.NO, KC.NO, KC.NO, KC.NO, KC.NO,
         KC.NO, KC.NO, KC.NO,
 
-        KC.MS_LMB, KC.MS_RMB, KC.MS_UP, KC.NO, KC.NO,
+        KC.NO, KC.MB_LMB, KC.MS_UP, KC.MB_RMB, KC.NO,
         KC.MW_UP, KC.MS_LT, KC.MS_DN, KC.MS_RT, KC.NO,
         KC.MW_DOWN, KC.NO, KC.NO, KC.NO, KC.NO,
                       KC.NO, KC.NO, KC.NO
