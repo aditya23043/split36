@@ -226,7 +226,7 @@ WHAT WE WANT
 
 - And finally, with testing, I am able to confirm that the right half can now be powered properly with just the left half connected with the system
 - So, as of now, this prototype's hardware stuff has been completed
-- [ ] TODO: Firmware
+- [X] TODO: Firmware
 
 ![WhatsApp Image 2025-05-03 at 23 23 26](https://github.com/user-attachments/assets/e303f7c1-462a-4e29-855e-51e01a5cbf2e)
 ![WhatsApp Image 2025-05-03 at 23 23 26(1)](https://github.com/user-attachments/assets/81ae705c-29a5-4339-a1ed-5b47e1eec441)
@@ -234,3 +234,6 @@ WHAT WE WANT
 ![WhatsApp Image 2025-05-03 at 23 23 29](https://github.com/user-attachments/assets/19c4a5dc-91ca-4723-8778-7f39bd627a20)
 ![WhatsApp Image 2025-05-03 at 23 23 30](https://github.com/user-attachments/assets/2cc96ee8-caac-42ce-909d-7809e26dc7af)
 
+# Finished the project! 
+- Presentation: https://docs.google.com/presentation/d/1XDV15suqviizSQfUHfM2_ha1iqeUGhER_RJtFe0Dyr4/edit?usp=sharing
+- LinkedIn Post: https://www.linkedin.com/posts/aditya23043_just-completed-my-most-ambitious-project-activity-7335380768921198593-B5wh?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEb0rpkBcvkxpg6PQ2YDkrWiA3oRIAywLL4

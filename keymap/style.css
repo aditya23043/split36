@@ -1,5 +1,5 @@
 html {
-  background-color: black;
+  background-color: #121212;
   color: #dadada;
   font-family: "JetBrainsMono NFM";
   display: flex;
@@ -23,7 +23,7 @@ table {
 
 td {
   padding: 1.2rem 1.2rem;
-  border: 1px solid #232323;
+  border: 2px solid #555555;
   border-radius: 0.3rem;
   text-align: center;
   transition: all ease 0.5s;
@@ -61,6 +61,8 @@ table tr td {
 .modifier {
   font-size: 1rem;
   padding: 1.5rem 1rem;
+  color: #fff;
+  font-weight: bold;
 }
 
 .held {
